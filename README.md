@@ -1,6 +1,6 @@
 # CyberBrick V7RC WiFi AP Utility
 
-A lightweight MicroPython library for CyberBrick and ESP32-C3-based V7RC modules, enabling:
+A lightweight MicroPython library for CyberBrick and V7RC App, enabling:
 
 - WiFi AP (Access Point) mode setup
 - UDP server communication
