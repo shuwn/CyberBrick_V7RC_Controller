@@ -11,7 +11,7 @@ def _default_set_color(r, g, b):
         np[0] = (r, g, b)
         np.write()
     except:
-        print("[v7rc] Cannot set LED color, please check neopixel availability")
+        print("[v7rc] LED control failed (NeoPixel not available)")
 
 # Default callback for UDP messages (used if cb is not provided)
 def _default_cb(msg, addr):

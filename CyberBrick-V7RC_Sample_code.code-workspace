@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "serial://dev/tty.usbmodem101",
+			"uri": "serial:///dev/tty.usbmodem101/"
+		},
+		{
+			"path": "../CyberBrick_Controller_Core"
+		}
+	],
+	"settings": {}
+}

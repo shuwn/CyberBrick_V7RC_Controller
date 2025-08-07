@@ -3,7 +3,6 @@
 
 from machine import bitstream
 
-
 class NeoPixel:
     # G R B W
     ORDER = (1, 0, 2, 3)
