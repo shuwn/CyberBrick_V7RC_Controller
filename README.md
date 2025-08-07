@@ -14,6 +14,7 @@ The V7RC App is available for free download on both [iOS](https://apps.apple.com
 ## Project Overview
 
 This is a compact MicroPython library tailored for CyberBrick’s V7RC module (ESP32-C3) that simplifies:
+
 - Wi‑Fi AP (Access Point) mode setup with custom SSID and password
 - Lightweight UDP server listening on `192.168.4.1:6188`
 - Built-in NeoPixel LED feedback (red for no clients, green for presence)
@@ -31,6 +32,7 @@ This is a compact MicroPython library tailored for CyberBrick’s V7RC module (E
 ## Installation
 
 Copy the following files into your CyberBrick device:
+
 ```shell
 /app/main.py
 /bbl/v7rc.py
