@@ -47,9 +47,18 @@ The NeoPixel LED will automatically indicate connection status:
 
 ## About ESP-NOW
 
-While this library uses UDP over Wi‑Fi, V7RC modules also support ESP-NOW, a low-latency wireless protocol ideal for real‑time control tasks. You can integrate with the CyberBrick_ESPNOW project for hybrid control setups.
+While this library uses UDP over Wi‑Fi, V7RC modules also support ESP-NOW, a low-latency wireless protocol ideal for real‑time control tasks. You can integrate with the [CyberBrick_ESPNOW](https://makerworld.com/en/cyberbrick/api-doc/library/espnow.html) project for hybrid control setups.
 
 ## License & Credits
 
 This library uses the CyberBrick Codebase License (refer to LICENSE in the repo).
 Special thanks to Mason Chen for contributing valuable design ideas.
+
+## Support My Work
+
+If you find this project helpful and would like to support its ongoing development, you are welcome to:
+
+- Buy me a coffee https://buymeacoffee.com/shuwn
+- Explore my 3D models on MakerWorld https://makerworld.com/@Shuwn_Hsu
+
+Your support helps fuel the development of open-source projects like this and encourages continued creative work. Thank you for your interest!
